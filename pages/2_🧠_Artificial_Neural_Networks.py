@@ -11,7 +11,7 @@ st.title("🧠 Entraînement d'un MLP (Multi-Layer Perceptron)")
 
 @st.cache_data
 def load_data():
-    return pd.read_csv("data/data.csv", sep=';')
+    return pd.read_csv("data.csv", sep=';')
 
 df = load_data()
 
