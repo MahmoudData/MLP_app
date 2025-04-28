@@ -16,7 +16,7 @@ Ce projet vous propose :
 
 st.divider()
 
-st.markdown("👉 Utilisez le menu à gauche pour accéder aux différentes sections de l’app.")
+st.markdown("Utilisez le menu à gauche pour accéder aux différentes sections de l’app.")
 
 
 
